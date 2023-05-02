@@ -1,5 +1,5 @@
 #include "Warrior.h"
-int main()
+int MAINTFUNCTION()
 {
 	"For second commit";
 	return 0;
